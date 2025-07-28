@@ -39,7 +39,7 @@ We love working with:
 
 Looking for a tech partner for your next project?  
 We're happy to chat! Contact us at:  
-📧 [hello@kijangstudio.com](mailto:hello@kijangstudio.com)
+📧 [info@kijangstudio.com](mailto:info@kijangstudio.com)
 
 Or visit our website:  
 🌍 [www.kijangstudio.com](https://www.kijangstudio.com)
